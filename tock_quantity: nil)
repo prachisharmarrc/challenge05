@@ -1,0 +1,9 @@
+=> 
+[32m#<Product:0x00007f24a1f215f8[0m
+ id: [36m[1mnil[0m,
+ title: [36m[1mnil[0m,
+ description: [36m[1mnil[0m,
+ price: [36m[1mnil[0m,
+ stock_quantity: [36m[1mnil[0m,
+ created_at: [36m[1mnil[0m,
+ updated_at: [36m[1mnil[0m[32m>[0m
